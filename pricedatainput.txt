@@ -1,0 +1,38 @@
+strawberry, costco, 4.49, 2, lb
+orange, aldi, 3.99, 5, lb
+pineapple, trader_joes, 2.99, 1, ea
+orange, costco, 9.99, 12, lb
+pineapple, aldi, 2.49, 1, ea
+strawberry, trader_joes, 2.99, 1, lb
+watermelon, trader_joes, 2.99, 1, ea
+strawberry, aldi, 1.49, 1, lb
+chicken_thigh, aldi, 0.99, 1, lb
+strawberry, wegmans, 3.99, 1, lb
+pineapple, aldi, 2.59, 1, ea
+chicken_thigh, costco, 1.99, 1, lb
+pineapple, aldi, 2.79, 1, ea
+strawberry, costco, 2.49, 1, lb
+lime, trader_joes, 0.29, 1, ea
+watermelon, costco, 3.99, 1, ea
+mango, shop_rite, 2.49, 1, ea
+strawberry, shop_rite, 2.49, 1, lb
+watermelon, aldi, 1.99, 1, ea
+mango, trader_joes, 2.99 1 ea
+lime, costco, 3.99, 20, ea
+potato, costco, 5.99, 10, lb
+pineapple, aldi, 2.69 1 ea
+mango, aldi, 1.29, 0, ea
+Orange, Giant, 4.49, 2, lb
+Strawberry, Giant, 4.49, 2, lb
+Pineapple, Wegmans, 2.99, 1, ea
+Lime, Costco, 2.99, 4, ea
+Pineapple, Wegmans, 2.79, 1, ea
+Potato, Aldi, 9.99, 15, lb
+Watermelon, Costco, 3.99, 1, ea
+Orange, Giant, .79, 1, ea
+Orange, Shop Rite, .79, 1, ea
+Watermelon, Giant, 2.49, 1, ea
+Potato, Shop Rite, .79, 1, ea
+Strawberry, Giant, 2.99, 1, lb
+Pineapple, Wegmans, 2.99, 1, lb
+Chicken Thigh, Giant, 2.19, 2, lb
